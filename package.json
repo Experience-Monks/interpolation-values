@@ -1,0 +1,22 @@
+{
+  "name": "interpolation-values",
+  "version": "0.0.0",
+  "description": "Interpolate between numbers, objects, and arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/interpolation-values.git"
+  },
+  "author": "Mikko Haapoja <me@mikkoh.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jam3/interpolation-values/issues"
+  },
+  "homepage": "https://github.com/Jam3/interpolation-values",
+  "dependencies": {
+    "interpolation": "0.0.1"
+  }
+}
