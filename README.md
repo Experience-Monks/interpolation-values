@@ -17,7 +17,7 @@ console.log( interpolateArray( [ 0, 10, 0, 20 ], [ 20, 5, 10, 0 ], 0.5 ) ); // [
 
 Usage:
 ------
-#### `require( 'interpolation-values' )( exampleValue, [ interpolationFunction ] )` #### 
+`require( 'interpolation-values' )( exampleValue, [ interpolationFunction ] )`
 
 The first step is to build an interpolation function. This is done to get maximum performance for interpolating values
 especially for when working with objects. 
